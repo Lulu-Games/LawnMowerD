@@ -15,12 +15,11 @@ Le Bus
 #E
 
 #Q
-Qu'est-ce que c'est correct?\n'Il n'est pas intelligent' ou 'Il ne pas intelligent'
+Qu'est-ce que c'est correct? "Il n'est pas intelligent" ou "Il ne pas intelligent"
 #A
 La première phrase
 #A
 La deuxième phrase
-#A
 #R
 1
 #T

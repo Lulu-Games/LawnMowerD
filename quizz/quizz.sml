@@ -1,4 +1,4 @@
-#Q
+﻿#Q
 Qu'est-ce qu'on dit <<der Reisebus>> en Français?
 #A
 La voiture
@@ -11,7 +11,7 @@ Le Bus
 #R
 2
 #T
-5000
+10000
 #E
 
 #Q
@@ -25,3 +25,20 @@ La deuxième phrase
 #T
 10000
 #E
+
+#Q
+Qu'est-ce qu'on dit <<nie>> en Français?
+#A
+Ne rien
+#A
+Ne jamais
+#A
+Ne pas
+#A
+Non
+#R
+2
+#T
+10000
+#E
+

@@ -23,6 +23,7 @@ La deuxième phrase
 #R
 1
 #T
+25000
 #E
 
 #Q

@@ -15,7 +15,7 @@ Le Bus
 #E
 
 #Q
-Qu'est-ce que c'est correct? « Il n'est pas intelligent » ou « Il ne pas intelligent »
+Quelle phrase est-ce que c'est correct? « Il n'est pas intelligent » ou « Il ne pas intelligent »
 #A
 La première phrase
 #A
@@ -27,7 +27,7 @@ La deuxième phrase
 #E
 
 #Q
-Qu'est-ce qu'on dit « nie » en Français?
+Comment est-ce qu'on dit « nie » en Français?
 #A
 Ne rien
 #A
@@ -39,7 +39,7 @@ Non
 #R
 2
 #T
-13000
+15000
 #E
 
 #Q
@@ -61,11 +61,11 @@ Je suis soif!
 #Q
 Sage auf Französisch, dass du etwas liebst.
 #A
-J’aimes…
+J’aime…
 #A
-Je déteste
+Je déteste…
 #A
-J’adores…
+J’adore…
 #A
 Je n’aime pas
 #R
@@ -89,7 +89,7 @@ Vingt-quatre
 #E
 
 #Q
-Quelle chose est-ce que correct?
+Quelle chose est-ce que c’est correct?
 #A
 Zéro et demi
 #A
@@ -109,7 +109,7 @@ trop
 #A
 very
 #A
-Très
+très
 #R
 2
 #T

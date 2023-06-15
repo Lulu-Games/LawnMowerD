@@ -11,7 +11,7 @@ Le Bus
 #R
 2
 #T
-18000
+10000
 #E
 
 #Q
@@ -23,7 +23,7 @@ La deuxième phrase
 #R
 1
 #T
-15000
+10000
 #E
 
 #Q
@@ -39,7 +39,7 @@ Non
 #R
 2
 #T
-13000
+10000
 #E
 
 #Q
@@ -71,49 +71,6 @@ Je n’aime pas
 #R
 3
 #T
-14000
+13000
 #E
-
-#Q
-Le nombre 95 – soixante-onze est:
-#A
-Vingt-cinq
-#A
-Trente-quatre
-#A
-Vingt-quatre
-#R
-3
-#T
-18000
-#E
-
-#Q
-Quelle chose est-ce que correct?
-#A
-Zéro et demi
-#A
-Minuit et demi
-#A
-Minuit et demie
-#R
-2
-#T
-15000
-#E
-
-#Q
-Les spaghettis sont … bon.
-#A
-trop
-#A
-very
-#A
-Très
-#R
-2
-#T
-15000
-#E
-
 

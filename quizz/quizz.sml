@@ -116,4 +116,73 @@ très
 23000
 #E
 
+#Q
+Welches Demonstrativpronomen ist richtig? „… train“
+#A
+ces
+#A
+ce
+#A
+cet
+#R
+2
+#T
+18000
+#E
+
+#Q
+Quelle phrase est-ce que correct?
+#A
+A plus
+#A
+À plus
+#A
+Les deux
+#R
+3
+#T
+18000
+#E
+
+#Q
+Le pluriel de cadeau est…
+#A
+cadeaus
+#A
+cadeax
+#A
+cadeaux
+#R
+3
+#T
+18000
+#E
+
+#Q
+Les deux mois après juin:
+#A
+Juin; juillet
+#A
+Juillet; août
+#A
+Juillet; septembre
+#R
+2
+#T
+24000
+#E
+
+#Q
+Quelle chose est-ce que correct?
+#A
+Vous faitez
+#A
+Vous faite
+#A
+Vous faites
+#R
+3
+#T
+14000
+#E
 
